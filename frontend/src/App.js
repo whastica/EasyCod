@@ -77,7 +77,7 @@ function App() {
               <div>
                 <div className="text-center mb-12">
                   <h2 className="text-4xl font-bold text-white mb-4">
-                    Shop Amazon with <span className="text-lime-400">Cash on Delivery</span>
+                    Compra en Amazon <span className="text-lime-400">Paga Contraentrega</span>
                   </h2>
                   <p className="text-xl text-gray-400 max-w-2xl mx-auto">
                     Pegue la URL de cualquier producto de Amazon olvidate de la logistica y recíbelo con pago contraentrega!
@@ -113,7 +113,7 @@ function App() {
           {/* Footer */}
           <footer className="border-t border-gray-800 bg-gray-900">
             <div className="container mx-auto px-4 py-8 text-center text-gray-400">
-              <p>&copy; Cash on Delivery service.</p>
+              <p>&copy; Kashly Servicio de Pago Contraentrega.</p>
             </div>
           </footer>
         </div>
